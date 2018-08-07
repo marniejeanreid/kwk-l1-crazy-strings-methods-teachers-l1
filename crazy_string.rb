@@ -4,4 +4,4 @@ def crazy_strings(a,b)
   return a.reverse
 end
 
-puts crazy_strings("dog", "cat")
+puts crazy_strings("hello", "friends")
