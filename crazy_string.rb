@@ -5,4 +5,4 @@ def crazy_strings(a,b)
   return b.swapcase.gsub("s","z")
 end
 
-puts crazy_strings("hello", "friends")
+puts crazy_strings("Hello", "Friends")
